@@ -1,9 +1,5 @@
-# Riznxz/README.md
-Rizwana Nesrin | Aspiring AI/DS Engineer | Lifelong Learner  
-
----
-
-## Hey, I’m Rizwana 👋  
+## Hey, I’m Rizwana 👋
+Rizwana Nesrin | Aspiring AI/DS Engineer | Lifelong Learner
 
 🎓 B.Tech Artificial Intelligence & Data Science Student | 🤖 Future AI/ML Engineer | 🌍 Passionate about Data, AI & Automation  
 
