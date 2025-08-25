@@ -1,7 +1,7 @@
 ## Hey, I’m Rizwana 👋
 Rizwana Nesrin | Aspiring AI/DS Engineer | Lifelong Learner
 
-🎓 B.Tech Artificial Intelligence & Data Science Student | 🤖 Future AI/ML Engineer | 🌍 Passionate about Data, AI & Automation  
+🎓 B.Tech Artificial Intelligence & Data Science  | 🤖 Future AI/ML Engineer | 🌍 Passionate about Data, AI & Automation  
 
 I’m an AI & Data Science enthusiast who learns by **building, experimenting, and sharing**.  
 I love turning raw ideas into working systems — whether it’s a machine learning model, an AI-powered tool, or a clean visualization that makes data come alive.  
@@ -37,23 +37,6 @@ I love turning raw ideas into working systems — whether it’s a machine learn
 - NLP: NLTK, SpaCy, Word2Vec, TF-IDF, Transformers  
 - Data Viz: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
 - Dev: HTML, CSS, JavaScript, Django, Flask  
-
----
-
-## 🎯 Vision  
-
-✨ To grow into a **world-class AI/ML Engineer**.  
-✨ To contribute to **AI solutions** that solve human-centered problems.  
-✨ To inspire & share my knowledge — so the next coder can build something even better.  
-
----
-
-## 🎨 Beyond Tech  
-
-🖌️ Love **art & creative design**.  
-💄 Interested in **lifestyle & skincare**.  
-👗 Believe in **simple & professional style**.  
-🌱 Firm believer in **continuous self-growth**.  
 
 ---
 
