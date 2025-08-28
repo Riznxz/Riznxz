@@ -20,15 +20,6 @@ I love turning raw ideas into working systems — whether it’s a machine learn
 
 ---
 
-## 📌 Current Focus  
-
-⚙️ Expanding my skills in **Generative AI & Deep Learning**.  
-📚 Building projects in **NLP & Data Science**.  
-🔗 Strengthening my **GitHub with real projects only** (no fake repos).  
-🌍 Preparing for global opportunities — because my dream is to **build AI products that impact the world**.  
-
----
-
 ## 🛠️ Tech Stack  
 
 **Languages & Tools**  
