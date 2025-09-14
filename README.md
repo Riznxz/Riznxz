@@ -10,7 +10,7 @@ I love turning raw ideas into working systems — whether it’s a machine learn
 
 💼 [LinkedIn](https://www.linkedin.com/in/riswananasrinpp/)  
 📧 riznxz@gmail.com.com  
-🌐 Portfolio (coming soon...)  
+🌐 Portfolio (coming soon....)  
 
 ---
 
