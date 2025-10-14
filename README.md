@@ -208,7 +208,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=C9D1D9" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riznxz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=C9D1D9" alt="Contribution Graph" />
 
 </div>
 
@@ -298,10 +298,9 @@ interests = {
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-Tweet_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/riswananasrinpp)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riznxz)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riznxz@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
 
 <br>
@@ -327,13 +326,6 @@ interests = {
 
 <div align="center">
 
-### 📊 Profile Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=8b5cf6&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=10b981&labelColor=0d1117)
-
-<br>
 
 ### 🌟 "Star my repos if something sparks your interest!"
 
