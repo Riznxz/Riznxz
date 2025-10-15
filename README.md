@@ -12,7 +12,7 @@
 
 ---
 
-## 🎭 Who Am I?
+## 🎭 Who Am I?.
 
 ```python
 #!/usr/bin/env python3
