@@ -52,7 +52,7 @@ class RizwanaNesrin:
 
 ---
 
-## 💭 My Philosophy
+## 💭 My Philosophy.
 
 > *"The best way to understand AI is to build it. The best way to master ML is to experiment with it. The best way to grow is to share what you learn."*
 
