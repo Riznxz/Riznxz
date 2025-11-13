@@ -28,7 +28,7 @@ class RizwanaNesrin:
 **AI/ML:** TensorFlow • PyTorch • Scikit-learn • LangChain • Hugging Face  
 **Data:** Python • SQL • R • Pandas • NumPy  
 **Visualization:** Tableau • Power BI • Matplotlib  
-**Databases:** MySQL • PostgreSQL • MongoDB
+**Databases:** MySQL • PostgreSQL • MongoDB.
 
 ---
 
