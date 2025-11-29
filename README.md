@@ -37,7 +37,7 @@ class RizwanaNesrin:
 - 🏗️ **SQL Data Warehouses** - Structuring chaos into clarity
 - 🤖 **ML Models** - From theory to deployment
 - ✨ **GenAI Projects** - Pushing boundaries of what's possible
-- 📊 **Data Visualizations** - Making data tell stories
+- 📊 **Data Visualizations** - Making data tell stories.
 
 ---
 
