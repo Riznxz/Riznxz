@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Turning+Coffee+into+Code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%A4%96" alt="Typing SVG" />
 
-**B.Tech AI & Data Science Student** | Building tomorrow's intelligence today.
+**B.Tech AI & Data Science Student** | Building tomorrow's intelligence today.......
 
 </div>
 
